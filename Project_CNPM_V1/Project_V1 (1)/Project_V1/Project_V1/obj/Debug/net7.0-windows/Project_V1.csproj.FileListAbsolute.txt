@@ -1,0 +1,165 @@
+C:\Users\Admin\source\repos\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.exe
+C:\Users\Admin\source\repos\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.dll.config
+C:\Users\Admin\source\repos\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.deps.json
+C:\Users\Admin\source\repos\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.runtimeconfig.json
+C:\Users\Admin\source\repos\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.dll
+C:\Users\Admin\source\repos\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.pdb
+C:\Users\Admin\source\repos\Project_V1\Project_V1\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\Project_V1\Project_V1\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\source\repos\Project_V1\Project_V1\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\source\repos\Project_V1\Project_V1\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\source\repos\Project_V1\Project_V1\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\Project_V1\Project_V1\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.addEmployee.resources
+C:\Users\Admin\source\repos\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.adminForm.resources
+C:\Users\Admin\source\repos\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.loginForm.resources
+C:\Users\Admin\source\repos\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.Properties.Resources.resources
+C:\Users\Admin\source\repos\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.registerForm.resources
+C:\Users\Admin\source\repos\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.welcomeForm.resources
+C:\Users\Admin\source\repos\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.csproj.CopyComplete
+C:\Users\Admin\source\repos\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.dll
+C:\Users\Admin\source\repos\Project_V1\Project_V1\obj\Debug\net7.0-windows\refint\Project_V1.dll
+C:\Users\Admin\source\repos\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.pdb
+C:\Users\Admin\source\repos\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Project_V1\Project_V1\obj\Debug\net7.0-windows\ref\Project_V1.dll
+C:\Users\Admin\source\repos\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.manageEmployee.resources
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.exe
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.dll.config
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.deps.json
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.runtimeconfig.json
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.dll
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.pdb
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.csproj.AssemblyReference.cache
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.addEmployee.resources
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.adminForm.resources
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.loginForm.resources
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.manageEmployee.resources
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.Properties.Resources.resources
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.registerForm.resources
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.welcomeForm.resources
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.csproj.GenerateResource.cache
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.AssemblyInfoInputs.cache
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.AssemblyInfo.cs
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.csproj.CoreCompileInputs.cache
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.csproj.CopyComplete
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.dll
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\refint\Project_V1.dll
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.pdb
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.genruntimeconfig.cache
+C:\Users\dotra\Desktop\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\ref\Project_V1.dll
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.exe
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.dll.config
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.deps.json
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.runtimeconfig.json
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.dll
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.pdb
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.adminForm.resources
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.loginForm.resources
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.manageEmployee.resources
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.Properties.Resources.resources
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.registerForm.resources
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.welcomeForm.resources
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.AssemblyInfo.cs
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.csproj.CopyComplete
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.dll
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\refint\Project_V1.dll
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.pdb
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.genruntimeconfig.cache
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\ref\Project_V1.dll
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.editInfo.resources
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.nvBHForm.resources
+C:\Users\HP\Downloads\Project_V1 (1)\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.nvKhoForm.resources
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.exe
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.dll.config
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.deps.json
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.runtimeconfig.json
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.dll
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.pdb
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.adminForm.resources
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.editInfo.resources
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.loginForm.resources
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.manageEmployee.resources
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.nvBHForm.resources
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.nvKhoForm.resources
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.Properties.Resources.resources
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.registerForm.resources
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.welcomeForm.resources
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.AssemblyInfo.cs
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.csproj.CopyComplete
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.dll
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\refint\Project_V1.dll
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.pdb
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.genruntimeconfig.cache
+C:\Users\HP\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\ref\Project_V1.dll
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.exe
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.dll.config
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.deps.json
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.runtimeconfig.json
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.dll
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\Project_V1.pdb
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.adminForm.resources
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.editInfo.resources
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.loginForm.resources
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.manageEmployee.resources
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.nvBHForm.resources
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.nvKhoForm.resources
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.Properties.Resources.resources
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.registerForm.resources
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.welcomeForm.resources
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.AssemblyInfo.cs
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.csproj.CopyComplete
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.dll
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\refint\Project_V1.dll
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.pdb
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.genruntimeconfig.cache
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\ref\Project_V1.dll
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.XemGH.resources
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.KTDonHang.resources
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.Resources.ThanhToan.resources
+C:\Users\PC\Downloads\Project_CNPM_V1\Project_V1 (1)\Project_V1\Project_V1\obj\Debug\net7.0-windows\Project_V1.UserCont.resources
